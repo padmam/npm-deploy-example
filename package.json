@@ -1,0 +1,11 @@
+{
+  "name": "snap-npm-example",
+  "version": "0.0.1",
+  "description": "Example module deployed from SnapCI",
+  "main": "index.js",
+  "keywords": [
+    "learning", "snap", "deploy"
+  ],
+  "author": "SnapCI",
+  "license": "MIT"
+}
