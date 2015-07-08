@@ -1,6 +1,6 @@
 {
   "name": "snap-npm-example",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Example module deployed from SnapCI",
   "main": "index.js",
   "keywords": [
